@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "DD Vacation App",
+  "name": "DataDynamics Vacation App",
   "icons": [
     {
       "src": "favicon.ico",
@@ -16,6 +16,26 @@
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "logo_dd_small.png",
+      "type": "image/png",
+      "sizes": "407x77"
+    },
+    {
+      "src": "logo_dd_small_transparent.png",
+      "type": "image/png",
+      "sizes": "831x212"
+    },
+    {
+      "src": "logo_dd_transparent.png",
+      "type": "image/png",
+      "sizes": "842x595"
+    },
+    {
+      "src": "logo_dd_white.png",
+      "type": "image/png",
+      "sizes": "842x595"
     }
   ],
   "start_url": ".",
