@@ -1,7 +1,7 @@
 #! /bin/bash
 
 for f in $(ls .) ; do
-  if [ ${f} = "README.md" -o ${f} = "rebuild.sh" -o ${f} = "rebuild.sh" ] ; then
+  if [ ${f} = "README.md" -o ${f} = "rebuild.sh" ] ; then
     continue
   fi
   rm_candidate=${f}
