@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vacation-public/static/css/main.a24843ad.css",
-    "main.js": "/vacation-public/static/js/main.ccd3e7cf.js",
+    "main.js": "/vacation-public/static/js/main.5c189d87.js",
     "static/js/787.9e9f4ffd.chunk.js": "/vacation-public/static/js/787.9e9f4ffd.chunk.js",
     "index.html": "/vacation-public/index.html",
     "main.a24843ad.css.map": "/vacation-public/static/css/main.a24843ad.css.map",
-    "main.ccd3e7cf.js.map": "/vacation-public/static/js/main.ccd3e7cf.js.map",
+    "main.5c189d87.js.map": "/vacation-public/static/js/main.5c189d87.js.map",
     "787.9e9f4ffd.chunk.js.map": "/vacation-public/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a24843ad.css",
-    "static/js/main.ccd3e7cf.js"
+    "static/js/main.5c189d87.js"
   ]
 }
